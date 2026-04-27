@@ -177,3 +177,9 @@ dist
 CLAUDE.md
 frontend/.claude
 
+### IDE ###
+.idea/
+
+### Fichiers parasites ###
+/package-lock.json
+
